@@ -38,7 +38,7 @@ h1 {
 .header {
     padding: 40px;
     border-radius: 5px 5px 0 0;
-    background-image: linear-gradient(340deg, #045de9 0%, #09c6f9 100%);
+    background-image: linear-gradient(340deg, #e904b7 0%, #e509f9 100%);
 }
 
 .todo-input {
@@ -109,12 +109,12 @@ h1 {
 }
 
 .complete {
-    color: var(--light-blue);
+    color: rgb(15, 179, 69);
 }
 
 .edit {
     font-weight: bold;
-    color: rgb(15, 179, 69);
+    color: var(--light-blue);
 }
 
 .delete {
